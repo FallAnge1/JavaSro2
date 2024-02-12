@@ -11,7 +11,7 @@
         Имя: <input type="text" name="lname" value=""/><br/>
         GPA: <input type="text" name="gpa" value=""/><br/> <%-- Добавлено поле для ввода GPA --%>
         <input type="submit" value="ОТПРАВИТЬ"/><br/>
-        <i>Privet</i>
+
     </form>
 </body>
 </html>
