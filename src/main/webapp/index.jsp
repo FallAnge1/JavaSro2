@@ -12,6 +12,7 @@
         GPA: <input type="text" name="gpa" value=""/><br/> <%-- Добавлено поле для ввода GPA --%>
         <input type="submit" value="ОТПРАВИТЬ"/><br/>
         <i>privet</i>
+
     </form>
 </body>
 </html>

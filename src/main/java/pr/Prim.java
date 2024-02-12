@@ -38,9 +38,12 @@ public class Prim {
     // Метод print для вывода информации о допуске
     public String print(double gpaThreshold) {
         if (this.gpa < gpaThreshold) {
-            return "Ваш GPA меньше, чем " + gpaThreshold + ". Вы не допущены.";
+            return "Ваш GPA меньше, чем " + gpaThreshold + 5 +". Вы не допущены.";
         } else {
             return "Вы допущены.";
+
         }
+
+
     }
 }
